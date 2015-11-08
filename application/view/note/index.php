@@ -19,7 +19,7 @@
         </p>
 
         <?php if ($this->notes) { ?>
-            <table class="note-table">
+            <table class="table">
                 <thead>
                 <tr>
                     <td>Id</td>

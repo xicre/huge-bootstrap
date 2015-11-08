@@ -10,7 +10,7 @@
 
         <?php if ($this->user) { ?>
             <div>
-                <table class="overview-table">
+                <table class="table">
                     <thead>
                     <tr>
                         <td>Id</td>
