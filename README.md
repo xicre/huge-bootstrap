@@ -1,9 +1,10 @@
 # HUGE - Bootstrap
 
-[![Build status](https://ci.appveyor.com/api/projects/status/1ubs2v5ux5khorut/branch/master?svg=true)](https://ci.appveyor.com/project/afermon/huge-bootstrap/branch/master)
 [![Code Climate](https://codeclimate.com/github/xicre/huge-bootstrap/badges/gpa.svg)](https://codeclimate.com/github/xicre/huge-bootstrap)
 [![Build Status](https://travis-ci.org/xicre/huge-bootstrap.svg?branch=master)](https://travis-ci.org/xicre/huge-bootstrap)
 [![Dependency Status](https://www.versioneye.com/user/projects/563fef2e4d415e001b0003de/badge.svg?style=flat)](https://www.versioneye.com/user/projects/563fef2e4d415e001b0003de)
+
+This is a fork of Huge that implement Bootstrap CSS. This will use bootstrap v4.
 
 ### Features 
 * built with the official PHP password hashing functions, fitting the most modern password hashing/salting web standards
@@ -12,7 +13,7 @@
 * password-forget / reset
 * remember-me (login via cookie)
 * account verification via mail
-* captcha (This fork will implement Google ReCaptcha)
+* captcha
 * failed-login-throttling
 * user profiles
 * account upgrade / downgrade
@@ -27,7 +28,7 @@
 * uses [Post-Redirect-Get pattern](https://en.wikipedia.org/wiki/Post/Redirect/Get) for nice application flow
 * masses of comments
 * is actively developed, maintained and bug-fixed
-* Bootstrap CSS
+* **Bootstrap CSS**
 
 ### Requirements <a name="requirements"></a>
 

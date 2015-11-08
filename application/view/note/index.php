@@ -1,5 +1,7 @@
 <div class="container">
-    <h1>NoteController/index</h1>
+    <div class="page-header">
+        <h1>NoteController/index</h1>
+    </div>
     <div class="box">
 
         <!-- echo out the system feedback (error and success messages) -->

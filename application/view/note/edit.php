@@ -1,6 +1,7 @@
-<div class="container">
-    <h1>NoteController/edit/:note_id</h1>
-
+<div class="col-md-12">
+    <div class="page-header">
+        <h1>NoteController/edit/:note_id</h1>
+    </div>
     <div class="box">
         <h2>Edit a note</h2>
 

@@ -66,8 +66,8 @@ return array(
 	'DB_TYPE' => 'mysql',
 	'DB_HOST' => '127.0.0.1',
 	'DB_NAME' => 'huge',
-	'DB_USER' => 'root',
-	'DB_PASS' => '12345678',
+	'DB_USER' => 'user',
+	'DB_PASS' => '123456789',
 	'DB_PORT' => '3306',
 	'DB_CHARSET' => 'utf8',
 	/**
