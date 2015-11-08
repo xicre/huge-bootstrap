@@ -2,7 +2,7 @@
     "name": "xicre/huge-bootstrap",
     "type": "project",
     "description": "A full-feature user authentication / login system embedded into a simple but powerful MVC framework structure with Bootstrap CSS",
-    "keywords": ["login", "auth", "user", "authentication", "mvc", "membership", "Bootstrap"],
+    "keywords": ["login", "auth", "user", "authentication", "mvc", "membership"],
     "homepage": "https://github.com/xicre/huge-bootstrap",
     "license": "MIT",
     "require-dev": {
