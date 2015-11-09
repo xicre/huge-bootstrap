@@ -7,16 +7,15 @@
         <!-- echo out the system feedback (error and success messages) -->
         <?php $this->renderFeedbackMessages(); ?>
 
-        <div class="box">
-            <h2>Change your email address</h2>
+        <h2>Change your email address</h2>
 
-            <form action="<?php echo Config::get('URL'); ?>login/editUserEmail_action" method="post">
-                <label>
-                    New email address: <input type="text" name="user_email" required />
-                </label>
-                <input type="submit" value="Submit" />
-            </form>
-        </div>
+        <form class="form-inline" action="<?php echo Config::get('URL'); ?>login/editUserEmail_action" method="post">
+            <div class="form-group">
+                <label for="user_email">New email address:</label>
+                <input type="text" id="user_email" name="user_email" required />
+            </div>
+            <input class="btn btn-primary" type="submit" value="Submit" />
+        </form>
     </div>
 </div>
     
