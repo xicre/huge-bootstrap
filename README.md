@@ -1,10 +1,12 @@
+[![HUGE - Bootstrap](_pictures/huge-bootstrap.png)](https://github.com/xicre/huge-bootstrap)
+
 # HUGE - Bootstrap
 
 [![Code Climate](https://codeclimate.com/github/xicre/huge-bootstrap/badges/gpa.svg)](https://codeclimate.com/github/xicre/huge-bootstrap)
 [![Build Status](https://travis-ci.org/xicre/huge-bootstrap.svg?branch=master)](https://travis-ci.org/xicre/huge-bootstrap)
 [![Dependency Status](https://www.versioneye.com/user/projects/563fef2e4d415e001b0003de/badge.svg?style=flat)](https://www.versioneye.com/user/projects/563fef2e4d415e001b0003de)
 
-This is a fork of Huge that implement Bootstrap CSS. This will use bootstrap v4.
+This is a fork of Huge that implement Bootstrap CSS v3.3.5. As soon as Bootstrap v4 gets to beta this will be updated. 
 
 ### Features 
 * built with the official PHP password hashing functions, fitting the most modern password hashing/salting web standards
@@ -28,7 +30,7 @@ This is a fork of Huge that implement Bootstrap CSS. This will use bootstrap v4.
 * uses [Post-Redirect-Get pattern](https://en.wikipedia.org/wiki/Post/Redirect/Get) for nice application flow
 * masses of comments
 * is actively developed, maintained and bug-fixed
-* **Bootstrap CSS**
+* **Bootstrap CSS v3.3.5**
 
 ### Requirements <a name="requirements"></a>
 
@@ -45,6 +47,8 @@ used Composer before. This script is not for beginners.
 ### Installation
 
 Since this is a fork of [Huge](https://github.com/panique/huge), please refer to [Huge](https://github.com/panique/huge) for instalation guides.
+
+If you already have an Huge instalation just Download the Zip and replace the  [application/view] folder in your instalation.
 
 ### License <a name="license"></a>
 
